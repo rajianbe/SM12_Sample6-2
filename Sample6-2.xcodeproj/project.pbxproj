@@ -19,6 +19,12 @@
 		302DD2E8165B1A0F00D1B64F /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 302DD2E7165B1A0F00D1B64F /* ViewController.m */; };
 		302DD2EB165B1A0F00D1B64F /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 302DD2E9165B1A0F00D1B64F /* ViewController.xib */; };
 		302DD2F2165B1AB300D1B64F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 302DD2F1165B1AB300D1B64F /* AVFoundation.framework */; };
+		302DD39D165B3A0E00D1B64F /* format.wav in Resources */ = {isa = PBXBuildFile; fileRef = 302DD397165B3A0E00D1B64F /* format.wav */; };
+		302DD39E165B3A0E00D1B64F /* format16-22k-2.wav in Resources */ = {isa = PBXBuildFile; fileRef = 302DD398165B3A0E00D1B64F /* format16-22k-2.wav */; };
+		302DD39F165B3A0E00D1B64F /* format16-22k-1.wav in Resources */ = {isa = PBXBuildFile; fileRef = 302DD399165B3A0E00D1B64F /* format16-22k-1.wav */; };
+		302DD3A0165B3A0E00D1B64F /* format16-22k-2.aiff in Resources */ = {isa = PBXBuildFile; fileRef = 302DD39A165B3A0E00D1B64F /* format16-22k-2.aiff */; };
+		302DD3A1165B3A0E00D1B64F /* format16-22k-2.caf in Resources */ = {isa = PBXBuildFile; fileRef = 302DD39B165B3A0E00D1B64F /* format16-22k-2.caf */; };
+		302DD3A2165B3A0E00D1B64F /* format.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 302DD39C165B3A0E00D1B64F /* format.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -39,6 +45,12 @@
 		302DD2E7165B1A0F00D1B64F /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		302DD2EA165B1A0F00D1B64F /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
 		302DD2F1165B1AB300D1B64F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		302DD397165B3A0E00D1B64F /* format.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = format.wav; sourceTree = "<group>"; };
+		302DD398165B3A0E00D1B64F /* format16-22k-2.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "format16-22k-2.wav"; sourceTree = "<group>"; };
+		302DD399165B3A0E00D1B64F /* format16-22k-1.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "format16-22k-1.wav"; sourceTree = "<group>"; };
+		302DD39A165B3A0E00D1B64F /* format16-22k-2.aiff */ = {isa = PBXFileReference; lastKnownFileType = audio.aiff; path = "format16-22k-2.aiff"; sourceTree = "<group>"; };
+		302DD39B165B3A0E00D1B64F /* format16-22k-2.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "format16-22k-2.caf"; sourceTree = "<group>"; };
+		302DD39C165B3A0E00D1B64F /* format.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = format.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -92,6 +104,12 @@
 				302DD2E6165B1A0F00D1B64F /* ViewController.h */,
 				302DD2E7165B1A0F00D1B64F /* ViewController.m */,
 				302DD2E9165B1A0F00D1B64F /* ViewController.xib */,
+				302DD397165B3A0E00D1B64F /* format.wav */,
+				302DD398165B3A0E00D1B64F /* format16-22k-2.wav */,
+				302DD399165B3A0E00D1B64F /* format16-22k-1.wav */,
+				302DD39A165B3A0E00D1B64F /* format16-22k-2.aiff */,
+				302DD39B165B3A0E00D1B64F /* format16-22k-2.caf */,
+				302DD39C165B3A0E00D1B64F /* format.mp4 */,
 				302DD2D5165B1A0F00D1B64F /* Supporting Files */,
 			);
 			path = "Sample6-2";
@@ -167,6 +185,12 @@
 				302DD2E3165B1A0F00D1B64F /* Default@2x.png in Resources */,
 				302DD2E5165B1A0F00D1B64F /* Default-568h@2x.png in Resources */,
 				302DD2EB165B1A0F00D1B64F /* ViewController.xib in Resources */,
+				302DD39D165B3A0E00D1B64F /* format.wav in Resources */,
+				302DD39E165B3A0E00D1B64F /* format16-22k-2.wav in Resources */,
+				302DD39F165B3A0E00D1B64F /* format16-22k-1.wav in Resources */,
+				302DD3A0165B3A0E00D1B64F /* format16-22k-2.aiff in Resources */,
+				302DD3A1165B3A0E00D1B64F /* format16-22k-2.caf in Resources */,
+				302DD3A2165B3A0E00D1B64F /* format.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
